@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Trev (Aka Worm)</h1>
-<h3 align="center">A programming Hobbyist from the Maritimes</h3>
+<h1 align="center">Hi 👋, I'm King Louis the 16th (not really)</h1>
+<h3 align="center">A programming Hobbyist from the Sherbrooke Quebec</h3>
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
